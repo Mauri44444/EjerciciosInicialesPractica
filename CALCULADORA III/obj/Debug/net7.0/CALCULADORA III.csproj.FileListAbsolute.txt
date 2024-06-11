@@ -1,0 +1,15 @@
+C:\Users\Graciela\Desktop\CALCULADORA III\bin\Debug\net7.0\CALCULADORA III.exe
+C:\Users\Graciela\Desktop\CALCULADORA III\bin\Debug\net7.0\CALCULADORA III.deps.json
+C:\Users\Graciela\Desktop\CALCULADORA III\bin\Debug\net7.0\CALCULADORA III.runtimeconfig.json
+C:\Users\Graciela\Desktop\CALCULADORA III\bin\Debug\net7.0\CALCULADORA III.dll
+C:\Users\Graciela\Desktop\CALCULADORA III\bin\Debug\net7.0\CALCULADORA III.pdb
+C:\Users\Graciela\Desktop\CALCULADORA III\obj\Debug\net7.0\CALCULADORA III.csproj.AssemblyReference.cache
+C:\Users\Graciela\Desktop\CALCULADORA III\obj\Debug\net7.0\CALCULADORA III.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Graciela\Desktop\CALCULADORA III\obj\Debug\net7.0\CALCULADORA III.AssemblyInfoInputs.cache
+C:\Users\Graciela\Desktop\CALCULADORA III\obj\Debug\net7.0\CALCULADORA III.AssemblyInfo.cs
+C:\Users\Graciela\Desktop\CALCULADORA III\obj\Debug\net7.0\CALCULADORA III.csproj.CoreCompileInputs.cache
+C:\Users\Graciela\Desktop\CALCULADORA III\obj\Debug\net7.0\CALCULADORA III.dll
+C:\Users\Graciela\Desktop\CALCULADORA III\obj\Debug\net7.0\refint\CALCULADORA III.dll
+C:\Users\Graciela\Desktop\CALCULADORA III\obj\Debug\net7.0\CALCULADORA III.pdb
+C:\Users\Graciela\Desktop\CALCULADORA III\obj\Debug\net7.0\CALCULADORA III.genruntimeconfig.cache
+C:\Users\Graciela\Desktop\CALCULADORA III\obj\Debug\net7.0\ref\CALCULADORA III.dll
