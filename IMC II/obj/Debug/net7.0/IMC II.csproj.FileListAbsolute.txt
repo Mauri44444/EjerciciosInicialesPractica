@@ -1,0 +1,15 @@
+C:\Users\Graciela\Desktop\IMC II\bin\Debug\net7.0\IMC II.exe
+C:\Users\Graciela\Desktop\IMC II\bin\Debug\net7.0\IMC II.deps.json
+C:\Users\Graciela\Desktop\IMC II\bin\Debug\net7.0\IMC II.runtimeconfig.json
+C:\Users\Graciela\Desktop\IMC II\bin\Debug\net7.0\IMC II.dll
+C:\Users\Graciela\Desktop\IMC II\bin\Debug\net7.0\IMC II.pdb
+C:\Users\Graciela\Desktop\IMC II\obj\Debug\net7.0\IMC II.csproj.AssemblyReference.cache
+C:\Users\Graciela\Desktop\IMC II\obj\Debug\net7.0\IMC II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Graciela\Desktop\IMC II\obj\Debug\net7.0\IMC II.AssemblyInfoInputs.cache
+C:\Users\Graciela\Desktop\IMC II\obj\Debug\net7.0\IMC II.AssemblyInfo.cs
+C:\Users\Graciela\Desktop\IMC II\obj\Debug\net7.0\IMC II.csproj.CoreCompileInputs.cache
+C:\Users\Graciela\Desktop\IMC II\obj\Debug\net7.0\IMC II.dll
+C:\Users\Graciela\Desktop\IMC II\obj\Debug\net7.0\refint\IMC II.dll
+C:\Users\Graciela\Desktop\IMC II\obj\Debug\net7.0\IMC II.pdb
+C:\Users\Graciela\Desktop\IMC II\obj\Debug\net7.0\IMC II.genruntimeconfig.cache
+C:\Users\Graciela\Desktop\IMC II\obj\Debug\net7.0\ref\IMC II.dll
