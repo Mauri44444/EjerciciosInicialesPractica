@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "AÑO BICIESTO IV/1.0.0": {
+        "runtime": {
+          "AÑO BICIESTO IV.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AÑO BICIESTO IV/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

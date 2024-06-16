@@ -1,0 +1,15 @@
+C:\Users\Graciela\Desktop\PALINDROMO V\bin\Debug\net7.0\PALINDROMO V.exe
+C:\Users\Graciela\Desktop\PALINDROMO V\bin\Debug\net7.0\PALINDROMO V.deps.json
+C:\Users\Graciela\Desktop\PALINDROMO V\bin\Debug\net7.0\PALINDROMO V.runtimeconfig.json
+C:\Users\Graciela\Desktop\PALINDROMO V\bin\Debug\net7.0\PALINDROMO V.dll
+C:\Users\Graciela\Desktop\PALINDROMO V\bin\Debug\net7.0\PALINDROMO V.pdb
+C:\Users\Graciela\Desktop\PALINDROMO V\obj\Debug\net7.0\PALINDROMO V.csproj.AssemblyReference.cache
+C:\Users\Graciela\Desktop\PALINDROMO V\obj\Debug\net7.0\PALINDROMO V.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Graciela\Desktop\PALINDROMO V\obj\Debug\net7.0\PALINDROMO V.AssemblyInfoInputs.cache
+C:\Users\Graciela\Desktop\PALINDROMO V\obj\Debug\net7.0\PALINDROMO V.AssemblyInfo.cs
+C:\Users\Graciela\Desktop\PALINDROMO V\obj\Debug\net7.0\PALINDROMO V.csproj.CoreCompileInputs.cache
+C:\Users\Graciela\Desktop\PALINDROMO V\obj\Debug\net7.0\PALINDROMO V.dll
+C:\Users\Graciela\Desktop\PALINDROMO V\obj\Debug\net7.0\refint\PALINDROMO V.dll
+C:\Users\Graciela\Desktop\PALINDROMO V\obj\Debug\net7.0\PALINDROMO V.pdb
+C:\Users\Graciela\Desktop\PALINDROMO V\obj\Debug\net7.0\PALINDROMO V.genruntimeconfig.cache
+C:\Users\Graciela\Desktop\PALINDROMO V\obj\Debug\net7.0\ref\PALINDROMO V.dll

@@ -1,0 +1,15 @@
+C:\Users\Graciela\Desktop\AÑO BICIESTO IV\bin\Debug\net7.0\AÑO BICIESTO IV.exe
+C:\Users\Graciela\Desktop\AÑO BICIESTO IV\bin\Debug\net7.0\AÑO BICIESTO IV.deps.json
+C:\Users\Graciela\Desktop\AÑO BICIESTO IV\bin\Debug\net7.0\AÑO BICIESTO IV.runtimeconfig.json
+C:\Users\Graciela\Desktop\AÑO BICIESTO IV\bin\Debug\net7.0\AÑO BICIESTO IV.dll
+C:\Users\Graciela\Desktop\AÑO BICIESTO IV\bin\Debug\net7.0\AÑO BICIESTO IV.pdb
+C:\Users\Graciela\Desktop\AÑO BICIESTO IV\obj\Debug\net7.0\AÑO BICIESTO IV.csproj.AssemblyReference.cache
+C:\Users\Graciela\Desktop\AÑO BICIESTO IV\obj\Debug\net7.0\AÑO BICIESTO IV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Graciela\Desktop\AÑO BICIESTO IV\obj\Debug\net7.0\AÑO BICIESTO IV.AssemblyInfoInputs.cache
+C:\Users\Graciela\Desktop\AÑO BICIESTO IV\obj\Debug\net7.0\AÑO BICIESTO IV.AssemblyInfo.cs
+C:\Users\Graciela\Desktop\AÑO BICIESTO IV\obj\Debug\net7.0\AÑO BICIESTO IV.csproj.CoreCompileInputs.cache
+C:\Users\Graciela\Desktop\AÑO BICIESTO IV\obj\Debug\net7.0\AÑO BICIESTO IV.dll
+C:\Users\Graciela\Desktop\AÑO BICIESTO IV\obj\Debug\net7.0\refint\AÑO BICIESTO IV.dll
+C:\Users\Graciela\Desktop\AÑO BICIESTO IV\obj\Debug\net7.0\AÑO BICIESTO IV.pdb
+C:\Users\Graciela\Desktop\AÑO BICIESTO IV\obj\Debug\net7.0\AÑO BICIESTO IV.genruntimeconfig.cache
+C:\Users\Graciela\Desktop\AÑO BICIESTO IV\obj\Debug\net7.0\ref\AÑO BICIESTO IV.dll
